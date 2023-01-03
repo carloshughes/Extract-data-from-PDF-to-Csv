@@ -4,3 +4,7 @@ With this piece of code you can extract information from pdf file and write in c
 Best regards.  
 
 <img src="http://www.carloshughes.com/img/computadora.png" alt="Alt text" title="Optional title">
+
+<iframe width="640" height="390" 
+    src="http://www.carloshughes/videos/IMG_9336.MOV" 
+    frameborder="0" allowfullscreen></iframe>
