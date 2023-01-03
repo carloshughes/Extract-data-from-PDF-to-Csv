@@ -1,10 +1,11 @@
 # Extract-data-from-PDF-to-Csv
+
+<img class="center" src="http://www.carloshughes.com/img/projets/ExtractPDFtoCSV/Captura.JPG" alt="Application" title="Extract data PDF to CSV">
+
 With this piece of code you can extract information from pdf file and write in csv file for this case I used differents variables in order to get the information, you can delete, replace or comment in order to use only that you need. 
 
 Best regards.  
 
-<img src="http://www.carloshughes.com/img/projets/ExtractPDFtoCSV/Captura.JPG" alt="Application" title="Extract data PDF to CSV">
+Video
 
-<iframe width="640" height="390" 
-    src="http://www.carloshughes/videos/IMG_9336.MOV" 
-    frameborder="0" allowfullscreen></iframe>
+<video class="center" src="http://www.carloshughes.com/video/IMG_9336.MOV" alt="Application" title="Extract data PDF to CSV">
