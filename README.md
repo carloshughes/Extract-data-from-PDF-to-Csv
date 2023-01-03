@@ -3,7 +3,7 @@ With this piece of code you can extract information from pdf file and write in c
 
 Best regards.  
 
-<img src="http://www.carloshughes.comp\projets\ExtractPDFtoCSV\Captura.jpg" alt="Application" title="Extract data PDF to CSV">
+<img src="http://www.carloshughes.com/img/projets/ExtractPDFtoCSV/Captura.JPG" alt="Application" title="Extract data PDF to CSV">
 
 <iframe width="640" height="390" 
     src="http://www.carloshughes/videos/IMG_9336.MOV" 
